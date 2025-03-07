@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## About Me
-Hi there! I'm Jame Nguyen, a passionate CS Student who enjoys solving problems, writing clean code, and building cool projects. I'm always eager to learn and collaborate!
+Hi there! I'm James Nguyen, a passionate CS Student who enjoys solving problems, writing clean code, and building cool projects. I'm always eager to learn and collaborate!
 
 ## 🚀 Skills & Technologies
 - 💻 **Languages:** Python, C, C++
