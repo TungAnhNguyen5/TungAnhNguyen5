@@ -7,7 +7,7 @@ Hi there! I'm James Nguyen, a passionate CS Student who enjoys solving problems,
 - 💻 **Languages:** Python, C, C++
 - 🛠️ **Frameworks & Tools:** Git, Docker  
 - 📊 **Data Science:** Pandas, NumPy, Matplotlib  
-- 🔧 **DevOps & OS:** Linux
+- 🔧 **Coding OS:** Linux
 
 ## 📫 Connect With Me
 📧 **Email:** jamesnguyenw@gmail.com 
