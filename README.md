@@ -3,7 +3,7 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hi%2C+I'm+James+Nguyen+%F0%9F%91%8B;CS+Student+%40+Simon+Fraser+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hi%2C+I'm+James+Nguyen;CS+Student+%40+Simon+Fraser+University" alt="Typing SVG" />
   </a>
 
   <br>
@@ -25,7 +25,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 CS student at **Simon Fraser University** with hands-on experience in machine learning, systems programming, and robotics. I build complete systems — from data pipelines and model training to deployment and evaluation.
 
@@ -68,7 +68,7 @@ Currently looking for **internship or co-op roles** in ML engineering, software 
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -83,7 +83,7 @@ Currently looking for **internship or co-op roles** in ML engineering, software 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=TungAnhNguyen5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
