@@ -82,10 +82,3 @@ CS student at **Simon Fraser University** interested in the intersection of mach
   <img src="https://streak-stats.demolab.com/?user=TungAnhNguyen5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## 🎼 A Note on Craft
-
-> *"A craftsman who cuts corners does not save time — he only postpones the reckoning. Every unresolved dissonance in a composition returns, louder and uglier, in the final movement. Write your code as you would write a fugue: with discipline, with honesty, and with the knowledge that every voice must eventually be accounted for."*
->
-> — **Johann Sebastian Bach** *(paraphrased)*
