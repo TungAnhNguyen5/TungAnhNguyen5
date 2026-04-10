@@ -79,6 +79,9 @@ CS student at **Simon Fraser University** interested in the intersection of mach
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TungAnhNguyen5&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TungAnhNguyen5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=TungAnhNguyen5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TungAnhNguyen5&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
