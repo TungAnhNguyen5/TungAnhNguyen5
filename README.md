@@ -3,10 +3,14 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=435&height=75&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=500&height=75&lines=Hi%2C+I'm+James+Nguyen+%F0%9F%91%8B;CS+Student+%40+Simon+Fraser+University" alt="Typing SVG" />
   </a>
 
   <br>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work"/>
+  </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/james-nguyen-8605bc/">
@@ -21,10 +25,25 @@
     <img src="https://komarev.com/ghpvc/?username=TungAnhNguyen5&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </p>
 
-  <p align="center">
-    <img src="https://ascii-galaxy.vercel.app/api?width=800&height=150&text=Techstack&font=Standard&fontSize=20&textColor=FFFFFF" alt="Tech Stack"/>
-  </p>
+</div>
 
+---
+
+## 💡 About Me
+
+CS student at **Simon Fraser University** with hands-on experience in machine learning, systems programming, and robotics. I build complete systems — from data pipelines and model training to deployment and evaluation.
+
+- **ML/AI:** Fine-tuned vision-language models (BLIP-2 + LoRA), built end-to-end trading ML pipelines, and trained classifiers across XGBoost, PyTorch, and transformer architectures
+- **Systems:** Implemented a Unix shell, a blockchain, and a memory-constrained graph scheduler in C/C++ (placed at Storm Hacks 2025)
+- **Robotics:** Built a ROS2 autonomous waypoint controller with Gazebo simulation
+- **Team projects:** Delivered production-quality software in teams (CMPT 276 ferry system, hackathon, research group)
+
+Currently looking for **internship or co-op roles** in ML engineering, software engineering, or quantitative development.
+
+---
+
+<div align="center">
+  <img src="https://ascii-galaxy.vercel.app/api?width=800&height=150&text=Techstack&font=Standard&fontSize=20&textColor=FFFFFF" alt="Tech Stack"/>
 </div>
 
 ### Languages
@@ -44,41 +63,32 @@
 ![Optuna](https://img.shields.io/badge/Optuna-4B8BBE?style=for-the-badge&logoColor=white)
 
 ### Tools & Infrastructure
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ---
 
-## 💡 About Me
-
-CS student at **Simon Fraser University** interested in the intersection of machine learning, systems programming, and robotics. I like building things end-to-end — from low-level feature pipelines to models to deployment.
-
-## 🎯 Current Focus
-
-- 📈 Quantitative trading systems — intraday ML on Vietnamese derivatives markets
-- 🤖 Vision-language models — LoRA fine-tuning and knowledge distillation for domain-specific captioning
-- 🚁 Autonomous robotics — ROS2 drone navigation and multi-agent pathfinding
-
-## 🌟 Projects
+## 🌟 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Quant Trading AI](https://github.com/TungAnhNguyen5/quant_trading_ai) | End-to-end ML pipeline for VN30 futures: order book features, classifiers, backtesting, realtime inference | Python, PyTorch, XGBoost, PostgreSQL |
-| [BLIP-2 Explorer](https://github.com/TungAnhNguyen5/blip2-explorer) | LoRA fine-tuned BLIP-2 + knowledge distillation for underwater marine image captioning (CIDEr +179%) | PyTorch, HuggingFace, LoRA |
-| [Multi-Agent Pathfinding Drone](https://github.com/TungAnhNguyen5/Multi-Agent-Pathfinding-Drone) | ROS2 waypoint controller with Gazebo simulation and Nav2 integration | Python, ROS2, Gazebo |
-| [Storm Hacks 2025](https://github.com/TungAnhNguyen5/Racoon_Works_Storm_Hacks2025) | Huawei challenge: memory-constrained DAG scheduler with greedy + beam search + Gurobi | C++, Gurobi |
-| [AI Piano Music Analysis](https://github.com/TungAnhNguyen5/final_419_project) | Music-theoretical analysis of AI-generated piano music on MAESTRO dataset | Python, music21 |
-| [Ferry Reservation System](https://github.com/TungAnhNguyen5/cmpt-276-group-19) | Full reservation system for ferry company — CMPT 276 team project | C++ |
-| [Basic Shell](https://github.com/TungAnhNguyen5/Basic-Shell) | Unix shell implementation from scratch | C++ |
-| [Basic Blockchain](https://github.com/TungAnhNguyen5/Basic-Blockchain) | Blockchain implementation from scratch | C |
+| [Quant Trading AI](https://github.com/TungAnhNguyen5/quant_trading_ai) | End-to-end ML pipeline for intraday futures trading: order book feature engineering, multiple classifier architectures (XGBoost, TabNet, TFT, LSTM), trailing-stop backtesting, and realtime inference | Python · PyTorch · XGBoost · PostgreSQL · Optuna |
+| [BLIP-2 Explorer](https://github.com/TungAnhNguyen5/blip2-explorer) | Domain-adapted vision-language model for underwater marine image captioning via LoRA fine-tuning and knowledge distillation. Achieved **CIDEr +179%** over baseline; student model at **4× lower GPU memory** | PyTorch · HuggingFace · LoRA · CLIP |
+| [Multi-Agent Pathfinding Drone](https://github.com/TungAnhNguyen5/Multi-Agent-Pathfinding-Drone) | ROS2 autonomous waypoint controller with proportional control, Gazebo simulation, and Nav2 integration for multi-robot scenarios | Python · ROS2 · Gazebo · Nav2 |
+| [Storm Hacks 2025](https://github.com/TungAnhNguyen5/Racoon_Works_Storm_Hacks2025) | Hackathon solver for Huawei's computation graph scheduling challenge: memory-constrained DAG scheduler using greedy, heuristic, and beam-search strategies with Gurobi optimization | C++ · CMake · Gurobi |
+| [AI Piano Music Analysis](https://github.com/TungAnhNguyen5/final_419_project) | Computational music-theory analysis of AI-generated piano music (MuseNet, MusicLM, Bach Doodle) using the MAESTRO dataset | Python · music21 · pandas |
+| [Ferry Reservation System](https://github.com/TungAnhNguyen5/cmpt-276-group-19) | Full-featured reservation system for a ferry company built in a team of 4 — sailing schedules, vehicle classification, capacity tracking, binary file persistence, and unit tests | C++ |
+| [Basic Shell](https://github.com/TungAnhNguyen5/Basic-Shell) | Unix shell implementation from scratch with process management and piping | C++ |
+| [Basic Blockchain](https://github.com/TungAnhNguyen5/Basic-Blockchain) | Blockchain implementation from scratch including hashing and chain validation | C |
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=TungAnhNguyen5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
