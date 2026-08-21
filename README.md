@@ -77,14 +77,5 @@ Currently looking for **internship or co-op roles** in ML engineering, software 
 | [Multi-Agent Pathfinding Drone](https://github.com/TungAnhNguyen5/Multi-Agent-Pathfinding-Drone) | ROS2 autonomous waypoint controller with proportional control, Gazebo simulation, and Nav2 integration for multi-robot scenarios | Python · ROS2 · Gazebo · Nav2 |
 | [Storm Hacks 2025](https://github.com/TungAnhNguyen5/Racoon_Works_Storm_Hacks2025) | Hackathon solver for Huawei's computation graph scheduling challenge: memory-constrained DAG scheduler using greedy, heuristic, and beam-search strategies with Gurobi optimization | C++ · CMake · Gurobi |
 | [AI Piano Music Analysis](https://github.com/TungAnhNguyen5/final_419_project) | Computational music-theory analysis of AI-generated piano music (MuseNet, MusicLM, Bach Doodle) using the MAESTRO dataset | Python · music21 · pandas |
-| [Ferry Reservation System](https://github.com/TungAnhNguyen5/cmpt-276-group-19) | Full-featured reservation system for a ferry company built in a team of 4 — sailing schedules, vehicle classification, capacity tracking, binary file persistence, and unit tests | C++ |
 | [Basic Shell](https://github.com/TungAnhNguyen5/Basic-Shell) | Unix shell implementation from scratch with process management and piping | C++ |
 | [Basic Blockchain](https://github.com/TungAnhNguyen5/Basic-Blockchain) | Blockchain implementation from scratch including hashing and chain validation | C |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TungAnhNguyen5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
